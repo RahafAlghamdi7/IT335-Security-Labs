@@ -1,23 +1,43 @@
-# Lab 01: Enterprise Infrastructure Audit
-**Date:** January 30, 2026  
-**Status:** Completed  
+# Cybersecurity Student | Infrastructure & Network Security
 
-## 🎯 Objective
-To analyze the 2021 Facebook outage and understand how network misconfigurations can impact large organizations.
+## 🧭 Mission
+I am a cybersecurity student focused on analyzing, securing, and documenting infrastructure and networks. My goal is to build strong foundations in network defense, access control, and failure prevention while developing professional documentation and risk-aware security thinking.
 
-## 🛠️ Tools Used
-- Linux Terminal  
-- Draw.io  
-- Public incident reports
+---
 
-## 🔍 Key Findings
-1. The outage was caused by a BGP configuration error.
-2. Internal systems failed because they relied on the same network.
-3. This created both technical and physical access issues.
+## 🛠️ Technical Toolkit
 
-## 💡 Lessons Learned
-This lab showed how single points of failure can affect enterprise systems. Redundancy and backup access methods are important controls.
+### Operating Systems
+- Linux (Ubuntu, Kali – academic use)
+- Windows
 
-## 📸 Proof of Work
-Screenshot placeholder.
+### Networking & Security
+- TCP/IP fundamentals  
+- DNS concepts  
+- Firewall basics  
+- Network segmentation (introductory)  
+- Wireshark (traffic analysis labs)  
+- Nmap (basic scanning)
+
+### Scripting & Automation
+- Bash (foundational)  
+- Python (learning)
+
+### Frameworks & Standards
+- NIST Cybersecurity Framework (academic exposure)  
+- MITRE ATT&CK (foundational knowledge)
+
+---
+
+## 📌 Highlighted Work
+Pinned repositories below showcase documented cybersecurity labs, network analysis exercises, and course-based security projects.
+
+---
+
+## 📈 Professional Signals
+- Documented hands-on cybersecurity labs  
+- Experience analyzing network behavior in lab environments  
+- Emphasis on clear technical documentation  
+- Developing disciplined and methodical security practices
+
 
