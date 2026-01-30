@@ -1,43 +1,25 @@
-# Cybersecurity Student | Infrastructure & Network Security
+# Lab 01: Network Traffic Observation
+**Date:** January 30, 2026  
+**Status:** Completed  
 
-## 🧭 Mission
-I am a cybersecurity student focused on analyzing, securing, and documenting infrastructure and networks. My goal is to build strong foundations in network defense, access control, and failure prevention while developing professional documentation and risk-aware security thinking.
+## 🎯 Objective
+To observe and analyze basic network traffic to understand how devices communicate over a network.
 
----
+## 🛠️ Tools Used
+- Wireshark  
+- Linux Terminal  
+- Classroom lab environment  
 
-## 🛠️ Technical Toolkit
+## 🔍 Key Findings
+1. Observed TCP and DNS traffic between devices.
+2. Identified how packets show source and destination addresses.
+3. Learned how normal network traffic appears.
 
-### Operating Systems
-- Linux (Ubuntu, Kali – academic use)
-- Windows
+## 💡 Lessons Learned
+This lab helped build foundational understanding of network communication. Recognizing normal traffic is important before identifying suspicious behavior.
 
-### Networking & Security
-- TCP/IP fundamentals  
-- DNS concepts  
-- Firewall basics  
-- Network segmentation (introductory)  
-- Wireshark (traffic analysis labs)  
-- Nmap (basic scanning)
+## 📸 Proof of Work
+![Network Proof](network-proof.png)
 
-### Scripting & Automation
-- Bash (foundational)  
-- Python (learning)
-
-### Frameworks & Standards
-- NIST Cybersecurity Framework (academic exposure)  
-- MITRE ATT&CK (foundational knowledge)
-
----
-
-## 📌 Highlighted Work
-Pinned repositories below showcase documented cybersecurity labs, network analysis exercises, and course-based security projects.
-
----
-
-## 📈 Professional Signals
-- Documented hands-on cybersecurity labs  
-- Experience analyzing network behavior in lab environments  
-- Emphasis on clear technical documentation  
-- Developing disciplined and methodical security practices
 
 
